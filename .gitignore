@@ -1,6 +1,6 @@
 core.*
 *.bin
-sroie-donut/
+# sroie-donut/
 .history/
 .nfs*
 .vscode/*
