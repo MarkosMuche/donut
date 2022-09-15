@@ -4,7 +4,7 @@ core.*
 .history/
 .nfs*
 .vscode/*
-dataset/*
+# dataset/*
 result/*
 misc/*
 !misc/*.png

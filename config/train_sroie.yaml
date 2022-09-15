@@ -1,4 +1,4 @@
-dataset_name_or_paths: ["sroie-donut"]
+dataset_name_or_paths: ["dataset/sroie-donut"]
 train_batch_sizes: [1]
 check_val_every_n_epochs: 10
 result_path: 'result'
