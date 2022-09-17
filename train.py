@@ -135,7 +135,7 @@ def train(config):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config", default='config/train_sroie.yaml', type=str,)
+    parser.add_argument("--config", default='config/train_ben.yaml', type=str,)
     parser.add_argument("--exp_version", type=str, required=False)
     args, left_argv = parser.parse_known_args()
 
