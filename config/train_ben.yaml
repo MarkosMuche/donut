@@ -1,0 +1,23 @@
+dataset_name_or_paths: ["dataset/ben-donut"]
+train_batch_sizes: [1]
+check_val_every_n_epochs: 10
+result_path: 'result'
+input_size: [1280, 960]
+max_length:  768
+sort_json_key: True
+
+
+val_batch_sizes: [1]
+align_long_axis: False
+num_nodes: 1
+seed: 2022
+lr: 3e-5
+warmup_steps: 300 # 800/8*30/10, 10%
+num_training_samples_per_epoch: 800
+max_epochs: 30
+max_steps: -1
+num_workers: 8
+val_check_interval: 1.0
+check_val_every_n_epoch: 3
+gradient_clip_val: 1.0
+verbose: True
