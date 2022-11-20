@@ -7,7 +7,7 @@ dataset/ben-receipt/train/*
 
 !dataset/ben-receipt/aaa/
 dataset/ben-receipt/aaa/*
-!dataset/ben-receipt/aaa/*.jsonl
+!dataset/ben-receipt/aaa/__init__.py
 
 !dataset/ben-receipt/validation/
 dataset/ben-receipt/validation/*
