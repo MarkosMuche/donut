@@ -12,6 +12,7 @@ dataset/ben-receipt/aaa/*
 !dataset/ben-receipt/validation/
 dataset/ben-receipt/validation/*
 !dataset/ben-receipt/validation/*.jsonl
+!dataset/ben-receipt/validation/1000-*
 
 
 
