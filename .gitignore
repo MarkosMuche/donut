@@ -1,4 +1,11 @@
 core.*
+dataset/ben-receipt/*
+!dataset/ben-receipt/train/
+dataset/ben-receipt/train/*
+!dataset/ben-receipt/train/102*
+!dataset/ben-receipt/train/*.jsonl
+
+
 *.bin
 # sroie-donut/
 .history/
