@@ -1,1 +1,1 @@
-{"file_name": "000.jpg", "ground_truth": "{\"gt_parse\": {\"expiry_date\": \"22/12/2016\"}}"}
+{"file_name": "1000-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"date_and_time\": \"7/26/2019 10:56:49\",\"Dal Fry\": \"10.99\",\"Paneer Butter Masala\": \"12.99\", \"Paneer Butter Masala\": \"12.99\"}}"}
