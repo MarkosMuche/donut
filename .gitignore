@@ -5,6 +5,16 @@ dataset/ben-receipt/train/*
 !dataset/ben-receipt/train/102*
 !dataset/ben-receipt/train/*.jsonl
 
+!dataset/ben-receipt/aaa/
+dataset/ben-receipt/aaa/*
+!dataset/ben-receipt/aaa/*.jsonl
+
+!dataset/ben-receipt/validation/
+dataset/ben-receipt/validation/*
+!dataset/ben-receipt/validation/*.jsonl
+
+
+
 
 *.bin
 # sroie-donut/
