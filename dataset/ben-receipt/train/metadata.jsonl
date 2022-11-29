@@ -1,7 +1,7 @@
 {"file_name": "1020-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Deccan Spice\", \"date\": \"7/26/2019\", \"address\": \"771 Newark Avenue Jerser City Local,NJ 07306(201) 604-1772\", \"total\": \"$47.02\"}}"}
 {"file_name": "1021-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"HAWWI ETHIOPIAN RESTAU\", \"date\": \"13-JUN-2018\", \"address\": \"1125 QUEEN ST ALEXANDRIA, VA 223147037179740\", \"total\": \"$69.76\"}}"}
 {"file_name": "1022-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Moonstar Restaurant\", \"date\": \"10/29/2018\", \"address\": \"383 Gellert Blvd., Daily,City,CA 94015 (650) 992-2888\", \"total\": \"37.37\"}}"}
-{"file_name": "1023-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"thai GUSTO Restaurant \", \"date\": \"6/16/2017\", \"address\": \"2011 Hewitt Ave Everett WA 98201\", \"total\": \"$30.15\"}}"}
+{"file_name": "1023-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"thai GUSTO Restaurant\", \"date\": \"6/16/2017\", \"address\": \"2011 Hewitt Ave Everett WA 98201\", \"total\": \"$30.15\"}}"}
 {"file_name": "1024-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"New Asia Buffet\", \"date\": \"ov-15-06-N\", \"address\": \"14727.5 Rinalda St. san Fernando, CA 91340 ", \"total\": \"33.92\"}}"}
 {"file_name": "1025-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"McDonald's Restaurant #3100\", \"date\": \"02/07/2019/\", \"address\": \"LOS ANGELES\", \"total\": \"7.27\"}}"}
 {"file_name": "1026-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"CHRIS'S HAMBURGERS\", \"date\": \"07/22/2018\", \"address\": \"7701 ATLANTIC AVE. CUDAHY CA. 90201  Ph(323) 562-4125\", \"total\": \"$51.82\"}}"}
