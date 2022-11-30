@@ -8,3 +8,49 @@
 {"file_name": "1027-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DAHU,HAWAII\", \"date\": \"01/11/2019\", \"address\": \"Longboards 92-161 Waipahe Place Kapolei, HI 96707(808) 679-4700\", \"total\": \"$41.31\"}}"}
 {"file_name": "1028-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DOUGLAS BURGERS #15\", \"date\": \"02/09/2019\", \"address\": \"11325 Masnington Bivd Whitter, Calif 90605 (562)699-7484\", \"total\": \"34.21\"}}"}
 {"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
+{"file_name": "1030-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"VILLA D ESTE RESTAURANT\", \"date\": \"12/8/2017\", \"address\": \"186 Jericho tpke flora park, NY 11001(516) 354-1355 \", \"total\": \"$94.78\"}}"}
+{"file_name": "1031-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Laurel Tavern Hermosa Beach\", \"date\": \"01/12/19\", \"address\": \"1220 Hermosa Beach, CA 90254\", \"total\": \"44.35\"}}"}
+{"file_name": "1032-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"WINGS & THINGS\", \"date\": \"04 MAR.1917\", \"address\": \"1717 DUTCH BRDY ELMONT , NY 11003 THANKS CALL AGAIN 516-341-7075\", \"total\": \"9.50\"}}"}
+{"file_name": "1033-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"8030 Renaissance Parkway\", \"date\": \"05/18/2019\", \"address\": \"Durham, NC 27713(984) 329-2900\", \"total\": \"46.73\"}}"}
+{"file_name": "1034-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"lafource\", \"date\": \"02-08-2015\", \"address\": \"19,The Alain Charium 75015 PARIS\", \"total\": \"17.00\"}}"}
+{"file_name": "1035-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Argonaut Diner2000\", \"date\": \" \", \"address\": \"1884 Yonkers Avenue  Yonkers, NY 10704(914) 237-5055\", \"total\": \"$26.38\"}}"}
+{"file_name": "1036-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PAPPADEAUX SEAFOOD KITCHEN\", \"date\": \"11/18/17\", \"address\": \"Pappadeaux Seafood Kitchen (030) 1304 Copeland RD, Arlington, TX 76011(817) 543-0544\", \"total\": \"52.76\"}}"}
+{"file_name": "1037-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Store #1291 Panda Express\", \"date\": \"3/16/2013\", \"address\": \"Everett, WA (425)710-0278\", \"total\": \"164.89\"}}"}
+{"file_name": "1038-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Micros Demo System\", \"date\": \"Sep07'18\", \"address\": \"Welcome to Yogurtland 12502 North Kendall Drive Miami, FL 33186(305) 279-3478\", \"total\": \"17.80\"}}"}
+{"file_name": "1039-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"CARL'S JR 1100375(916) 962-3415\", \"date\": \"12/19/2016\", \"address\": \"8105 MADISON AVE FAIR OAKS, CA\", \"total\": \"$13.05\"}}"}
+{"file_name": "1040-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"SUKHOTHAI SUSHI + ASIAN FUSION\", \"date\": \"19-APR-2019\", \"address\": \"11735 SW 147 AVE UNiT 36 MIAML.FL 331967865774888\", \"total\": \"$28.04\"}}"}
+{"file_name": "1041-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"lafource\", \"date\": \"02-08-2015\", \"address\": \"19,The Alain Charium 75015 PARIS\", \"total\": \"17.00\"}}"}
+{"file_name": "1042-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"FAIRVIEN, NJ 07022\", \"date\": \"02/11/19\", \"address\": \"phone : (201) 840-8428\", \"total\": \"$55.39\"}}"}
+{"file_name": "1043-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BK SOUL FOOD & CATERING\", \"date\": \"June 23, 2019\", \"address\": \"11318 YONLERS AVE YONKERS, NY 10704 914-237-50883\", \"total\": \"26.67\"}}"}
+{"file_name": "1044-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"CHURCH'S   CHICKEN #4717\", \"date\": \"MAY.21'19\", \"address\": \"7635 WINNETKA CANODA PARK CA 818 576 0490\", \"total\": \"$10.94\"}}"}
+{"file_name": "1045-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"YUM'S RESTAURANT\", \"date\": \"6/24/2018\", \"address\": \"12835 Laural\", \"total\": \"22.03\"}}"}
+{"file_name": "1046-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Araxi Burger Aventura\", \"date\": \"03/17/19\", \"address\": \"17861 BISCAYNE BLVD Aventura, FL 33160\", \"total\": \"$38.86\"}}"}
+{"file_name": "1047-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"730 Tavern Kitchen & Patio\", \"date\": \"09/23/2017\", \"address\": \"730 Tavern.com 730 Mass Ave Cambridge, MA 02139-3308 617-868-8800\", \"total\": \"85.07\"}}"}
+{"file_name": "1048-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DAILY GRILL\", \"date\": \"11/01/2018\", \"address\": \"EXCELLENCE SERVED DAILY Daily Grill 2501 Colorado Ave Santa Monica, CA 90404\", \"total\": \"91.45\"}}"}
+{"file_name": "1049-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"KICKIN KAJUN KAPOKEK\", \"date\": \"7/18/19\", \"address\": \"Ka Makana Ali'i 91-5431 Kapolei, Suite 426 Kapolei, HI 96707(808) 628-4771\", \"total\": \"$77.49\"}}"}
+{"file_name": "1050-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"HOLLYWOOD CAFE & SPORTS BAR\", \"date\": \"09/08/2017\", \"address\": \"AM Dining Rm\", \"total\": \"26.96\"}}"}
+{"file_name": "1051-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GENERAL POOR'S\", \"date\": \"04/10/16\", \"address\": \"TAVERN 45 MAIN STREET HACKENSACK, NJ 07601(201)487-5882\", \"total\": \"$10.7\"}}"}
+{"file_name": "1052-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Nancy's\", \"date\": \"09/24/2016\", \"address\": \"255-41 Jericho Turnpike Floral Park, NY 11001\", \"total\": \"94.18\"}}"}
+{"file_name": "1053-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Primo Family Restaurant\", \"date\": \"5/3/19\", \"address\": \"\", \"total\": \"$52.47\"}}"}
+{"file_name": "1054-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BIG JO'S\", \"date\": \"Jan 25,2018\", \"address\": \"1955 BROADWAY SANTAMONCH, CA 90404(310) 828-3191\", \"total\": \"$56.50\"}}"}
+{"file_name": "1055-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"WINGS & THINGA\", \"date\": \"\", \"address\": \"519 FULTON AVE. HEMPSTEAD NY THANKS CALL AGAIN 516-483-0936\", \"total\": \"30.58\"}}"}
+{"file_name": "1056-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"ZOCA RRESTAURANT\", \"date\": \"7/30/19\", \"address\": \"98 CARFIELD PARKWAY BETHANY BEACH, DE 19930 (302) 616-2120\", \"total\": \"152.00\"}}"}
+{"file_name": "1057-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"CAFEPARISIEN LARCHMONT LLC\", \"date\": \"Jan 24,2019\", \"address\": \"242 NLARCHMONT BLVD LOS ANGELES,CA 90004 (310)815-8222\", \"total\": \"$9.58\"}}"}
+{"file_name": "1058-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Caldera BREWERY RESTAURANT\", \"date\": \"12/28/2017\", \"address\": \"ASHLAND,OREGON 590 Cover Lane Ashland, OR (541) 482-HOPS\", \"total\": \"37.60\"}}"}
+{"file_name": "1059-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LANDFALL RESTAURANT \", \"date\": \"06/10/17\", \"address\": \"APRIL TO DECEMBER\", \"total\": \"7.55\"}}"}
+{"file_name": "1060-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"1660 India Street\", \"date\": \"12/17/2017\", \"address\": \"1660 India Street\", \"total\": \"83.50\"}}"}
+{"file_name": "1061-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Chili's Grill & Bar\", \"date\": \"09/15/2018\", \"address\": \"Puente Hills #26 17588 Cast leton st City of Industry,CA 91748\", \"total\": \"26.37\"}}"}
+{"file_name": "1062-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MARIANACCI'S RESTAURANT\", \"date\": \"FEB 18/17\", \"address\": \"TABLE 403 CHECK 39\", \"total\": \"142.01\"}}"}
+{"file_name": "1063-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Primo Family Restaurant\", \"date\": \"5/3/19\", \"address\": \"\", \"total\": \"$52.47\"}}"}
+{"file_name": "1064-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"\", \"date\": \"2013-08-10\", \"address\": \"\", \"total\": \"$19.44\"}}"}
+{"file_name": "1065-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Taco Maria\", \"date\": \"1/23/18\", \"address\": \"3313 Hyland Ave. Ste C21 Costa Meta, CA 92626 714 538 8444\", \"total\": \"$45.79\"}}"}
+{"file_name": "1066-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RISTORANTE\", \"date\": \"14/07/2019\", \"address\": \"BELLAGIO (CO) TELEFONO 031/951888\", \"total\": \"82.00\"}}"}
+{"file_name": "1067-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Anjappar Chettinad Artesia\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
+{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
+{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
+{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
+
+
+
+
+
