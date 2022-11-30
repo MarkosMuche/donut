@@ -1,5 +1,5 @@
 dataset_name_or_paths: ["dataset/ben-receipt"]
-train_batch_sizes: [10]
+train_batch_sizes: [1]
 check_val_every_n_epochs: 10
 result_path: 'result'
 input_size: [1280, 960]
@@ -7,7 +7,7 @@ max_length:  768
 sort_json_key: True
 
 
-val_batch_sizes: [20]
+val_batch_sizes: [1]
 align_long_axis: False
 num_nodes: 1
 seed: 2022
