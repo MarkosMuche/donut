@@ -45,10 +45,22 @@
 {"file_name": "1064-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"\", \"date\": \"2013-08-10\", \"address\": \"\", \"total\": \"$19.44\"}}"}
 {"file_name": "1065-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Taco Maria\", \"date\": \"1/23/18\", \"address\": \"3313 Hyland Ave. Ste C21 Costa Meta, CA 92626 714 538 8444\", \"total\": \"$45.79\"}}"}
 {"file_name": "1066-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RISTORANTE\", \"date\": \"14/07/2019\", \"address\": \"BELLAGIO (CO) TELEFONO 031/951888\", \"total\": \"82.00\"}}"}
-{"file_name": "1067-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Anjappar Chettinad Artesia\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
-{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
-{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
-{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
+{"file_name": "1067-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Anjappar Chettinad Artesia\", \"date\": \"\", \"address\": \"18128 Planeer blvd Artesia,Ca 90701 (562) 991-1801\", \"total\": \"36.80\"}}"}
+{"file_name": "1068-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Cafe Eugene\", \"date\": \"4/10/16\", \"address\": \"1175 Solano Avenue Albany CA 94706 510-647-9999\", \"total\": \"$42.9\"}}"}
+{"file_name": "1069-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"River Village Family Restaurant\", \"date\": \"08/12/19\", \"address\": \"22825 Hurno River Dr Rockwood,MI 48173 (734)236-4033\", \"total\": \"$10.9\"}}"}
+{"file_name": "1070-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Mr. M'S Hot Wings & Things Inc\", \"date\": \"6/28/2019\", \"address\": \"886 N. Garfield Ave Montebello, CA 90640 (323) 477-1345\", \"total\": \"$10.95\"}}"}
+{"file_name": "1071-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Trinity Restaurant\", \"date\": \"02/08/17\", \"address\": \"190 Jericho Tpke Floral Park NY 11001\", \"total\": \"75.50\"}}"}
+{"file_name": "1072-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"OHANA HAWAIIAN BBO\", \"date\": \"6/1/2013\", \"address\": \"4469 SLAUSON AVE Maywood, CA 90270 (323) 771-9888\", \"total\": \"$21.69\"}}"}
+{"file_name": "1073-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Sucway#44969-0\", \"date\": \"5/1/2019\", \"address\": \"Phone 626-585-9999, 625 S Fair Oaks Ave  Pasadena, CA, 91105\", \"total\": \"13.22\"}}"}
+{"file_name": "1074-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Lin Buffet\", \"date\": \"Feb 24, 2019\", \"address\": \"2988 N. Expressway Brownsville,TX Phone(956)544-6600\", \"total\": \"33.73\"}}"}
+{"file_name": "1075-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"SmokeBoxBBO\", \"date\": \"5/22/2014\", \"address\": \"2361 whitney Ave Hamden, CT 06518 203 909 6545\", \"total\": \"$14.36\"}}"}
+{"file_name": "1076-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Paradise Restaurant\", \"date\": \"7/21/2018\", \"address\": \"0889 W 190th Street Los Angeles, CA 90248 ph 310-324-4800\", \"total\": \"$25.78\"}}"}
+{"file_name": "1077-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"NAANCHING\", \"date\": \"24-Mar-2019\", \"address\": \"103 MONTGOMERRY SI JERSEY CITY,NJ073022019840709\", \"total\": \"$69.79\"}}"}
+{"file_name": "1078-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"Tay Ho Oakland\", \"date\": \"2/19/19\", \"address\": \"@tayhookland #tayhookland\", \"total\": \"$14.18\"}}"}
+{"file_name": "1079-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"FALMOUTH RAW BAR\", \"date\": \"07/02/18\", \"address\": \"56 Scranton Ave. Falmouth, NA 02540 (508) 548-7729\", \"total\": \"235.81\"}}"}
+
+
+
 
 
 
