@@ -7,4 +7,4 @@
 {"file_name": "1026-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"CHRIS'S HAMBURGERS\", \"date\": \"07/22/2018\", \"address\": \"7701 ATLANTIC AVE. CUDAHY CA. 90201 Ph(323) 562-4125\", \"total\": \"$51.82\"}}"}
 {"file_name": "1027-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DAHU,HAWAII\", \"date\": \"01/11/2019\", \"address\": \"Longboards 92-161 Waipahe Place Kapolei, HI 96707(808) 679-4700\", \"total\": \"$41.31\"}}"}
 {"file_name": "1028-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DOUGLAS BURGERS #15\", \"date\": \"02/09/2019\", \"address\": \"11325 Masnington Bivd Whitter, Calif 90605 (562)699-7484\", \"total\": \"34.21\"}}"}
-{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
+{"file_name": "1029-receipt.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RINCON MEXICANO\", \"date\": \"09-May-2017\", \"address\": \"99 BROADWAY SOMERVILLE, MA 02145 6179661387\", \"total\": \"$30.98\"}}"}
