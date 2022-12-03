@@ -8,6 +8,10 @@ dataset/ben-receipt/train/*
 !dataset/ben-receipt/train/105*
 !dataset/ben-receipt/train/106*
 !dataset/ben-receipt/train/107*
+!dataset/ben-receipt/train/108*
+!dataset/ben-receipt/train/109*
+!dataset/ben-receipt/train/110*
+!dataset/ben-receipt/train/111*
 
 !dataset/ben-receipt/train/*.jsonl
 
